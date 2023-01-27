@@ -1,0 +1,70 @@
+.Outercontainer {
+    width: 100%;
+    display: block;
+    margin-top: 90px;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    margin-bottom:70px;
+  }
+  
+  .inputSourceCon {
+    display: inline-flex;
+    
+  }
+  
+  .inputDestinationCon {
+    margin-left: 70px;
+    display: inline-flex;
+   
+  }
+  
+  .inputBox{
+    display: inline-flex;
+  }
+  
+  .buttonContainer {
+    display: inline-flex;
+    padding-left: 20px;
+  }
+  
+  
+  .autoCompleteSearch{
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff; 
+    border-bottom: 1px solid #d4d4d4; 
+    position: absolute;
+    border: 1px solid #d4d4d4;
+    width:11.5%;
+   
+  }
+  
+  .autoCompleteSearchDest{
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff; 
+    border-bottom: 1px solid #d4d4d4; 
+    position: absolute;
+    border: 1px solid #d4d4d4;
+    margin-left:22.5%;
+    width:11%;
+       
+  }
+  input {
+    border: 1px solid transparent;
+    background-color: #f1f1f1;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .buttonContainer {
+    display: inline-flex;
+    padding-left: 90px;
+    border: none;
+    
+}
+  
